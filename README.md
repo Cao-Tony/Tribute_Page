@@ -1,5 +1,5 @@
 # Tribute_Page
-First(personal) web development project
+FreeCodeCamp Web Dev project 1
 
 HTML, CSS, and Responsive CSS FreeCodeCamp.org course 
 
